@@ -1,14 +1,15 @@
 # CoinVerse AI 🚀
 
-AI-powered Crypto Dashboard with Predictions & Portfolio
+**AI-Powered Crypto Dashboard with Predictions & Portfolio**
 
-## Features
+## ✨ Features
 - Real-time crypto prices
-- AI price predictions
+- AI price predictions  
 - User portfolio tracking
 - JWT Authentication
 
-## Quick Start
-```bash
-npm install
-npm run dev
+## 🚀 Live Demo
+**COMING SOON** on Vercel...
+
+## Tech Stack
+Next.js 14 | Tailwind | TypeScript | OpenAI
